@@ -1,0 +1,32 @@
+C:\Users\hp\source\repos\SelinaBrowser\SelinaBrowser\bin\Debug\SelinaBrowser.exe.config
+C:\Users\hp\source\repos\SelinaBrowser\SelinaBrowser\bin\Debug\SelinaBrowser.exe
+C:\Users\hp\source\repos\SelinaBrowser\SelinaBrowser\bin\Debug\SelinaBrowser.pdb
+C:\Users\hp\source\repos\SelinaBrowser\SelinaBrowser\obj\Debug\SelinaBrowser.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\SelinaBrowser\SelinaBrowser\obj\Debug\SelinaBrowser.Form1.resources
+C:\Users\hp\source\repos\SelinaBrowser\SelinaBrowser\obj\Debug\SelinaBrowser.Properties.Resources.resources
+C:\Users\hp\source\repos\SelinaBrowser\SelinaBrowser\obj\Debug\SelinaBrowser.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\SelinaBrowser\SelinaBrowser\obj\Debug\SelinaBrowser.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\SelinaBrowser\SelinaBrowser\obj\Debug\SelinaBrowser.exe
+C:\Users\hp\source\repos\SelinaBrowser\SelinaBrowser\obj\Debug\SelinaBrowser.pdb
+C:\Users\dell core i5\OneDrive\Documents\celineBrowser\SelinaBrowser\bin\Debug\SelinaBrowser.exe.config
+C:\Users\dell core i5\OneDrive\Documents\celineBrowser\SelinaBrowser\bin\Debug\SelinaBrowser.exe
+C:\Users\dell core i5\OneDrive\Documents\celineBrowser\SelinaBrowser\bin\Debug\SelinaBrowser.pdb
+C:\Users\dell core i5\OneDrive\Documents\celineBrowser\SelinaBrowser\obj\Debug\SelinaBrowser.csproj.AssemblyReference.cache
+C:\Users\dell core i5\OneDrive\Documents\celineBrowser\SelinaBrowser\obj\Debug\SelinaBrowser.csproj.SuggestedBindingRedirects.cache
+C:\Users\dell core i5\OneDrive\Documents\celineBrowser\SelinaBrowser\obj\Debug\SelinaBrowser.Form1.resources
+C:\Users\dell core i5\OneDrive\Documents\celineBrowser\SelinaBrowser\obj\Debug\SelinaBrowser.Properties.Resources.resources
+C:\Users\dell core i5\OneDrive\Documents\celineBrowser\SelinaBrowser\obj\Debug\SelinaBrowser.csproj.GenerateResource.cache
+C:\Users\dell core i5\OneDrive\Documents\celineBrowser\SelinaBrowser\obj\Debug\SelinaBrowser.csproj.CoreCompileInputs.cache
+C:\Users\dell core i5\OneDrive\Documents\celineBrowser\SelinaBrowser\obj\Debug\SelinaBrowser.exe
+C:\Users\dell core i5\OneDrive\Documents\celineBrowser\SelinaBrowser\obj\Debug\SelinaBrowser.pdb
+C:\Users\dell core i5\OneDrive\Desktop\celineBrowser\SelinaBrowser\bin\Debug\SelinaBrowser.exe.config
+C:\Users\dell core i5\OneDrive\Desktop\celineBrowser\SelinaBrowser\bin\Debug\SelinaBrowser.exe
+C:\Users\dell core i5\OneDrive\Desktop\celineBrowser\SelinaBrowser\bin\Debug\SelinaBrowser.pdb
+C:\Users\dell core i5\OneDrive\Desktop\celineBrowser\SelinaBrowser\obj\Debug\SelinaBrowser.csproj.AssemblyReference.cache
+C:\Users\dell core i5\OneDrive\Desktop\celineBrowser\SelinaBrowser\obj\Debug\SelinaBrowser.csproj.SuggestedBindingRedirects.cache
+C:\Users\dell core i5\OneDrive\Desktop\celineBrowser\SelinaBrowser\obj\Debug\SelinaBrowser.Form1.resources
+C:\Users\dell core i5\OneDrive\Desktop\celineBrowser\SelinaBrowser\obj\Debug\SelinaBrowser.Properties.Resources.resources
+C:\Users\dell core i5\OneDrive\Desktop\celineBrowser\SelinaBrowser\obj\Debug\SelinaBrowser.csproj.GenerateResource.cache
+C:\Users\dell core i5\OneDrive\Desktop\celineBrowser\SelinaBrowser\obj\Debug\SelinaBrowser.csproj.CoreCompileInputs.cache
+C:\Users\dell core i5\OneDrive\Desktop\celineBrowser\SelinaBrowser\obj\Debug\SelinaBrowser.exe
+C:\Users\dell core i5\OneDrive\Desktop\celineBrowser\SelinaBrowser\obj\Debug\SelinaBrowser.pdb
